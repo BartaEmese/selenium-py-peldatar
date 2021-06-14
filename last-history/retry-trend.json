@@ -1,12 +1,4 @@
 [ {
-  "buildOrder" : 16,
-  "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/16/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 4,
-    "retry" : 0
-  }
-}, {
   "data" : {
     "run" : 0,
     "retry" : 0
