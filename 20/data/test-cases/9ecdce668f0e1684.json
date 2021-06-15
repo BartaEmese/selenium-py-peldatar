@@ -1,0 +1,88 @@
+{
+  "uid" : "9ecdce668f0e1684",
+  "name" : "test_add_negative",
+  "fullName" : "test_mymath#test_add_negative",
+  "historyId" : "dcb8fa11fdff83e2daf0e792014a33fe",
+  "time" : {
+    "start" : 1623747135683,
+    "stop" : 1623747135683,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az28-404"
+  }, {
+    "name" : "thread",
+    "value" : "2922-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "a36c8b51878566f2",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/19//#testresult/a36c8b51878566f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623747003716,
+          "stop" : 1623747003716,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6c0565ef0becca1b",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/18//#testresult/6c0565ef0becca1b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623746959645,
+          "stop" : 1623746959645,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9789d6c25ebc10de",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/17//#testresult/9789d6c25ebc10de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623683741254,
+          "stop" : 1623683741255,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9ecdce668f0e1684.json",
+  "parameterValues" : [ ]
+}
