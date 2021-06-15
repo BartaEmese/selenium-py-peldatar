@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 5,
       "unknown" : 0,
-      "total" : 4
+      "total" : 5
     },
     "items" : [ {
+      "uid" : "d001de7fa7940976",
+      "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/17//#testresult/d001de7fa7940976",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623747173128,
+        "stop" : 1623747173128,
+        "duration" : 0
+      }
+    }, {
       "uid" : "b972291023c552",
       "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/20//#testresult/b972291023c552",
       "status" : "passed",
@@ -51,11 +60,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 5,
       "unknown" : 0,
-      "total" : 4
+      "total" : 5
     },
     "items" : [ {
+      "uid" : "9dcbc6cb16d1596b",
+      "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/17//#testresult/9dcbc6cb16d1596b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623747173126,
+        "stop" : 1623747173126,
+        "duration" : 0
+      }
+    }, {
       "uid" : "9ecdce668f0e1684",
       "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/20//#testresult/9ecdce668f0e1684",
       "status" : "passed",
@@ -98,11 +116,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 5,
       "unknown" : 0,
-      "total" : 4
+      "total" : 5
     },
     "items" : [ {
+      "uid" : "6243cf59e177e1a9",
+      "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/17//#testresult/6243cf59e177e1a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623747173122,
+        "stop" : 1623747173123,
+        "duration" : 1
+      }
+    }, {
       "uid" : "76f1cfdc4ba3f483",
       "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/20//#testresult/76f1cfdc4ba3f483",
       "status" : "passed",
@@ -145,11 +172,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 5,
       "unknown" : 0,
-      "total" : 4
+      "total" : 5
     },
     "items" : [ {
+      "uid" : "7fc0dcba56f306d8",
+      "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/17//#testresult/7fc0dcba56f306d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623747173125,
+        "stop" : 1623747173125,
+        "duration" : 0
+      }
+    }, {
       "uid" : "c68aa745b6b36e5c",
       "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/20//#testresult/c68aa745b6b36e5c",
       "status" : "passed",
