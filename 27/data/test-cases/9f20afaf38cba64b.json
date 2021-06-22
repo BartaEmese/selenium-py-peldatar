@@ -1,0 +1,160 @@
+{
+  "uid" : "9f20afaf38cba64b",
+  "name" : "test_add_positive",
+  "fullName" : "test_mymath#test_add_positive",
+  "historyId" : "dce78d7dd5962c01ca0a9a6e9bc9920e",
+  "time" : {
+    "start" : 1624373024076,
+    "stop" : 1624373024076,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az39-74"
+  }, {
+    "name" : "thread",
+    "value" : "2980-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 12,
+        "unknown" : 0,
+        "total" : 12
+      },
+      "items" : [ {
+        "uid" : "43a518c5db8598d9",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/26//#testresult/43a518c5db8598d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624372584081,
+          "stop" : 1624372584081,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "10288ccc439864af",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/25//#testresult/10288ccc439864af",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624354943471,
+          "stop" : 1624354943471,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ee5db28819945fbf",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/24//#testresult/ee5db28819945fbf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624267880358,
+          "stop" : 1624267880358,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5b9e19e55cc98a0d",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/23//#testresult/5b9e19e55cc98a0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624267539938,
+          "stop" : 1624267539938,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ac50e7a111fe7089",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/22//#testresult/ac50e7a111fe7089",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624267386786,
+          "stop" : 1624267386786,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f5eeb792fea5cfb8",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/21//#testresult/f5eeb792fea5cfb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624267037355,
+          "stop" : 1624267037355,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6243cf59e177e1a9",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/17//#testresult/6243cf59e177e1a9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623747173122,
+          "stop" : 1623747173123,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "76f1cfdc4ba3f483",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/20//#testresult/76f1cfdc4ba3f483",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623747135679,
+          "stop" : 1623747135679,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c01d3d4ee0f7e80c",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/19//#testresult/c01d3d4ee0f7e80c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623747003706,
+          "stop" : 1623747003706,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "59978015967c3816",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/18//#testresult/59978015967c3816",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623746959635,
+          "stop" : 1623746959636,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "3cc801819007082a",
+        "reportUrl" : "https://BartaEmese.github.io/selenium-py-peldatar/17//#testresult/3cc801819007082a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623683741239,
+          "stop" : 1623683741239,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9f20afaf38cba64b.json",
+  "parameterValues" : [ ]
+}
