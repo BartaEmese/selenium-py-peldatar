@@ -3,14 +3,14 @@ drink = input("Mit szeretnél inni?: ")
 
 if drink == "kóla":
     if age <= 60:
-        print("Parancsoljon a kólája!")
+        print("Parancsolj a kólád!")
     elif age > 60:
-        print("A koffein megemeli a vérnyomást")
+        print("A koffein megemeli a vérnyomást!")
 
 
 elif drink == "sör":
     if age >= 18:
-        print("Parancsoljon a söre!")
+        print("Parancsolj a söröd!")
     elif age < 18:
         print("Sajnos nem szolgálhatjuk ki!")
 else:
