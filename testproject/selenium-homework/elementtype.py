@@ -15,7 +15,7 @@ try:
     print(type(elements))
 
     for button in elements:
-        if button == driver.find_element_by_name("button id"):
+        if button == driver.find_element_by_css_selector("button"):
             button.click()
             result = driver.find_element_by_id("result")
             print(result.text)
