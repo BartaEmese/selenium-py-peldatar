@@ -1,14 +1,25 @@
 from selenium import webdriver
 
 driver = webdriver.Chrome()
-driver.get("http://localhost:9999/trickyelements.html")
 
-product = driver.find_element_by_id("product")
-product.send_keys()
-quantity = driver.find_element_by_id("quantity")
-quantity.send_keys()
-price = driver.find_element_by_id()
-price.send_keys()
+try:
+    driver.get("http://localhost:9999/trickyelements.html")
 
-add_button = driver.find_element_by_id("add")
-add_button.click()
+    element1 = driver.find_element_by_id("element1")
+    element2 = driver.find_element_by_id("element2")
+    element3 = driver.find_element_by_id("element3")
+    element4 = driver.find_element_by_id("element4")
+    element5 = driver.find_element_by_id("element5")
+    elements = [element1, element2, element3, element4, element5]
+    print(elements)
+    print(type(elements))
+
+    for button in elements:
+        if button == driver.find_element_by_name("button id"):
+            button.click()
+            result = driver.find_element_by_id("result")
+            print(result.text)
+
+            assert (result.text == f"{button.text} was clicked")
+finally:
+    driver.close()
